@@ -1,0 +1,1 @@
+# r720-i5_CLOVER_DW1820A_BigSur_EFI
